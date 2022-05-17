@@ -1,0 +1,36 @@
+.contemail{
+width: 70%;
+background-color: hsl(217, 28%, 15%);
+padding: 35px;
+margin: 50px auto 10px auto;
+text-align: center;
+border-radius: 2%;
+position: absolute;
+left: 0px;
+right: 0px;
+}
+
+input{
+    width: 50%;
+    height: 40px;
+    border-radius: 30px;
+    border: none;
+    margin-top: 10px;
+    margin-right: 10px;
+}
+
+button{
+    width: 30%;
+     height: 40px;
+    border-radius: 30px;
+    border: none;
+    background-color: hsl(198, 60%, 50%);
+    color: white;
+}
+
+.spawn{
+    color: hsl(0, 100%, 63%);
+    display: block;
+    text-align: left;
+    margin-left: 100px;
+}
